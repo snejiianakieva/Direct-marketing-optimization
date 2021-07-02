@@ -17,4 +17,4 @@ seaborn==0.10.1
 six==1.15.0 # via cycler, python-dateutil
 openpyxl== 3.0.7
 scikit-learn==0.24.2 
-jobli==1.0.1 
+joblib==1.0.1 
